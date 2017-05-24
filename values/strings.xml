@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Line-Tac</string>
+    <string name="logo">Line-Tac</string>
+
+    <string name="jogador1">Nome do jogador 1</string>
+    <string name="jogador2">Nome do jogador 2</string>
+
+    <string name="Jogar">Jogar</string>
+    <string name="Reiniciar">Reiniciar</string>
+    <string name="Voltar">Voltar</string>
+</resources>
+
